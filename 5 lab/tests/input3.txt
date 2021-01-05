@@ -1,0 +1,1001 @@
+100
+4 Ensanche Espaillat
+6 Capotillo
+7 La Zurza
+9 Capotillo
+11 La Zurza
+13 Ensanche Espaillat
+14 Capotillo
+16 Villa Consuelo
+18 Capotillo
+19 La Cienaga
+20 Guaricano
+20 San Carlos
+23 Villa Juana
+25 Los Rios
+26 27 de Febrero
+27 Villa Juana
+32 San Carlos
+32 Cristo Rey
+32 San Carlos
+36 Guaricano
+40 Ensanche Espaillat
+40 Villa Consuelo
+43 Capotillo
+46 Los Guandules
+52 Palma Real
+53 Cristo Rey
+56 Guaricano
+57 Los Rios
+58 Capotillo
+60 La Cienaga
+63 Villa Consuelo
+67 San Carlos
+67 Palma Real
+69 Los Rios
+73 Palma Real
+75 Cristo Rey
+80 Villa Consuelo
+82 Capotillo
+83 Villa Juana
+90 Palma Real
+90 Villas Agricolas
+91 Guaricano
+96 Cristo Rey
+96 Gualey
+97 Capotillo
+100 Los Rios
+101 27 de Febrero
+103 Los Guandules
+105 Villa Consuelo
+105 Villa Francisca
+107 Cristo Rey
+108 Capotillo
+110 Los Guandules
+114 Villas Agricolas
+115 Palma Real
+116 Capotillo
+122 Capotillo
+132 Los Guandules
+135 Capotillo
+135 La Zurza
+137 Villas Agricolas
+139 Guaricano
+140 27 de Febrero
+142 Los Guandules
+143 Guaricano
+144 San Carlos
+145 La Zurza
+145 Los Rios
+147 La Zurza
+150 Palma Real
+150 Los Guandules
+151 Villa Juana
+155 Palma Real
+157 Guaricano
+160 27 de Febrero
+162 Capotillo
+164 Los Guandules
+166 Villa Consuelo
+168 Guaricano
+170 Villa Consuelo
+180 Villa Consuelo
+181 Villa Francisca
+182 Villa Consuelo
+182 La Cienaga
+184 Villa Consuelo
+184 Villa Francisca
+187 Villa Juana
+187 Villa Consuelo
+189 Gualey
+189 Los Rios
+191 La Zurza
+191 Villa Juana
+195 Capotillo
+197 San Carlos
+200 Guaricano
+205 Villa Consuelo
+205 Gualey
+207 Los Guandules
+207 Villas Agricolas
+207 Capotillo
+208 San Carlos
+209 La Zurza
+217 Los Rios
+218 Los Guandules
+220 Los Guandules
+221 Los Guandules
+225 Los Guandules
+228 La Zurza
+230 Gualey
+231 Gualey
+231 Villa Francisca
+233 Guaricano
+233 Cristo Rey
+235 Capotillo
+237 Villa Juana
+239 Los Rios
+240 La Zurza
+240 Guaricano
+242 Los Guandules
+246 San Carlos
+248 Palma Real
+250 Villa Consuelo
+252 Guaricano
+252 Capotillo
+252 Guaricano
+253 Ensanche Espaillat
+257 Los Guandules
+258 Capotillo
+261 Capotillo
+264 27 de Febrero
+275 Cristo Rey
+278 Palma Real
+280 La Cienaga
+290 Gualey
+291 Villa Juana
+292 Ensanche Espaillat
+295 San Carlos
+296 La Zurza
+297 Palma Real
+300 Cristo Rey
+304 Villa Juana
+304 Guaricano
+307 Ensanche Espaillat
+308 Los Guandules
+311 La Zurza
+316 Los Rios
+319 Guaricano
+322 Cristo Rey
+323 San Carlos
+323 San Carlos
+325 Villa Juana
+327 San Carlos
+328 Los Guandules
+328 San Carlos
+330 San Carlos
+331 Villa Consuelo
+332 San Carlos
+334 Capotillo
+334 Guaricano
+338 Cristo Rey
+338 Gualey
+339 Los Rios
+340 27 de Febrero
+344 San Carlos
+346 Gualey
+350 27 de Febrero
+350 Los Guandules
+351 Cristo Rey
+351 La Cienaga
+357 Villas Agricolas
+360 Los Rios
+361 Capotillo
+364 Villa Consuelo
+365 Gualey
+370 Cristo Rey
+374 Villas Agricolas
+375 Los Guandules
+375 La Zurza
+386 Guaricano
+390 San Carlos
+394 Los Guandules
+395 La Zurza
+395 Villa Juana
+395 Capotillo
+395 Palma Real
+397 Villa Juana
+398 Capotillo
+400 Gualey
+400 Villa Consuelo
+402 Villa Consuelo
+402 Villa Consuelo
+404 Capotillo
+405 Palma Real
+406 Los Guandules
+410 Villa Juana
+411 Los Guandules
+420 Palma Real
+420 Villa Consuelo
+422 La Zurza
+423 La Cienaga
+423 Guaricano
+425 Capotillo
+429 Villas Agricolas
+434 Capotillo
+435 La Zurza
+437 Los Guandules
+439 Los Rios
+443 Los Rios
+445 Guaricano
+446 Ensanche Espaillat
+446 Gualey
+449 Los Guandules
+451 Guaricano
+454 San Carlos
+461 Capotillo
+463 Villa Francisca
+464 Guaricano
+465 Gualey
+466 Los Guandules
+467 Palma Real
+467 Villa Juana
+468 Guaricano
+468 Cristo Rey
+473 Los Guandules
+474 Los Guandules
+474 Los Guandules
+476 Capotillo
+477 Villas Agricolas
+479 27 de Febrero
+480 San Carlos
+481 Gualey
+485 Capotillo
+489 San Carlos
+492 San Carlos
+493 Capotillo
+494 Los Guandules
+495 La Cienaga
+497 27 de Febrero
+497 Palma Real
+497 Villa Consuelo
+501 Los Rios
+503 Villas Agricolas
+503 Ensanche Espaillat
+506 La Cienaga
+508 27 de Febrero
+512 Cristo Rey
+512 27 de Febrero
+513 Villa Consuelo
+514 Gualey
+517 Los Guandules
+518 Gualey
+521 Capotillo
+529 La Zurza
+534 Los Rios
+535 Cristo Rey
+542 Gualey
+543 Gualey
+544 Guaricano
+544 Gualey
+545 Guaricano
+547 Capotillo
+547 San Carlos
+549 Los Guandules
+549 Los Rios
+550 Capotillo
+553 Cristo Rey
+554 27 de Febrero
+554 Cristo Rey
+557 Los Guandules
+560 Villa Francisca
+560 Villas Agricolas
+562 Los Rios
+563 Capotillo
+564 Los Rios
+566 La Cienaga
+567 Villas Agricolas
+569 Gualey
+572 Guaricano
+575 Cristo Rey
+579 Los Guandules
+581 Ensanche Espaillat
+583 Capotillo
+585 27 de Febrero
+585 Gualey
+590 27 de Febrero
+593 Los Guandules
+593 La Zurza
+593 Capotillo
+594 Capotillo
+596 Villa Consuelo
+596 La Zurza
+596 Cristo Rey
+597 Palma Real
+599 27 de Febrero
+601 San Carlos
+602 Los Guandules
+602 27 de Febrero
+603 La Zurza
+610 Palma Real
+611 La Zurza
+616 Los Guandules
+621 La Zurza
+621 La Zurza
+622 Villa Consuelo
+627 San Carlos
+633 Cristo Rey
+633 Los Guandules
+634 Villa Consuelo
+636 Capotillo
+636 27 de Febrero
+637 Villa Consuelo
+642 Capotillo
+643 La Zurza
+648 Capotillo
+649 Villas Agricolas
+652 Los Guandules
+653 La Cienaga
+655 Capotillo
+660 San Carlos
+660 Guaricano
+663 Villa Juana
+665 Guaricano
+668 Palma Real
+670 Villa Juana
+671 La Cienaga
+672 Ensanche Espaillat
+674 Guaricano
+674 Guaricano
+680 Guaricano
+681 Capotillo
+682 Gualey
+684 Palma Real
+688 San Carlos
+688 Capotillo
+690 Guaricano
+691 Cristo Rey
+695 Capotillo
+695 Los Guandules
+697 Villa Consuelo
+698 Guaricano
+700 Villa Consuelo
+709 La Cienaga
+712 Gualey
+715 Capotillo
+715 Palma Real
+719 Cristo Rey
+725 Los Guandules
+725 Villa Consuelo
+729 Guaricano
+729 Capotillo
+730 Los Guandules
+731 Gualey
+734 27 de Febrero
+735 Los Guandules
+736 Gualey
+736 Los Guandules
+738 Villa Francisca
+741 Capotillo
+744 Villa Juana
+747 Villas Agricolas
+749 Villa Consuelo
+753 Los Guandules
+755 Los Guandules
+756 Ensanche Espaillat
+756 Capotillo
+757 Los Guandules
+758 Guaricano
+758 La Zurza
+759 Cristo Rey
+759 Gualey
+760 La Cienaga
+761 Villa Consuelo
+761 La Zurza
+763 Capotillo
+763 San Carlos
+764 Gualey
+764 Los Guandules
+765 Los Guandules
+765 Guaricano
+766 San Carlos
+766 Cristo Rey
+768 Palma Real
+774 Ensanche Espaillat
+776 Villas Agricolas
+777 Villa Juana
+778 La Zurza
+779 Gualey
+779 Guaricano
+781 Ensanche Espaillat
+784 Villa Consuelo
+784 Villa Consuelo
+788 Palma Real
+789 Capotillo
+789 Capotillo
+792 Gualey
+793 Villa Consuelo
+795 Villa Consuelo
+796 Ensanche Espaillat
+801 Cristo Rey
+802 Los Guandules
+802 Villas Agricolas
+806 La Zurza
+807 Capotillo
+810 27 de Febrero
+811 Gualey
+811 La Zurza
+813 Guaricano
+813 Los Rios
+816 San Carlos
+819 Palma Real
+820 Villa Francisca
+821 San Carlos
+828 Capotillo
+829 Cristo Rey
+829 Los Guandules
+833 Villa Francisca
+833 Los Rios
+834 Cristo Rey
+836 Cristo Rey
+836 Villa Juana
+842 Los Guandules
+843 Los Guandules
+845 Villa Consuelo
+847 Gualey
+848 La Zurza
+850 Capotillo
+853 Villa Juana
+854 La Zurza
+855 Cristo Rey
+858 27 de Febrero
+858 Capotillo
+859 Palma Real
+860 Capotillo
+860 Gualey
+860 Palma Real
+865 Cristo Rey
+867 Capotillo
+867 Palma Real
+868 Los Guandules
+877 Gualey
+877 Villas Agricolas
+878 Los Guandules
+879 Capotillo
+880 27 de Febrero
+882 La Zurza
+882 Guaricano
+886 Los Guandules
+887 Guaricano
+890 Palma Real
+890 Los Guandules
+892 Cristo Rey
+893 La Zurza
+896 Gualey
+898 Ensanche Espaillat
+900 Ensanche Espaillat
+901 Villa Juana
+903 Capotillo
+904 27 de Febrero
+906 Capotillo
+912 Villa Juana
+913 Capotillo
+913 Guaricano
+916 Los Guandules
+918 Villa Juana
+923 Guaricano
+929 Ensanche Espaillat
+932 Capotillo
+932 Capotillo
+935 Capotillo
+941 Guaricano
+942 Capotillo
+947 Guaricano
+950 Los Guandules
+951 Capotillo
+953 Gualey
+955 Guaricano
+955 Villa Juana
+956 Ensanche Espaillat
+957 La Cienaga
+960 Villa Consuelo
+960 Los Guandules
+961 Villa Consuelo
+962 Villa Francisca
+966 Palma Real
+969 Guaricano
+973 Villa Consuelo
+973 Los Guandules
+975 Los Guandules
+977 Villa Juana
+980 Cristo Rey
+980 Los Rios
+981 Capotillo
+981 Cristo Rey
+983 Villa Juana
+983 Capotillo
+985 Capotillo
+986 Cristo Rey
+991 Cristo Rey
+992 Los Guandules
+995 Guaricano
+1002 Guaricano
+1006 Villa Consuelo
+1009 Los Rios
+1009 Cristo Rey
+1011 Los Guandules
+1012 Cristo Rey
+1012 Gualey
+1013 Villa Consuelo
+1018 Palma Real
+1024 Palma Real
+1027 Los Guandules
+1029 Villas Agricolas
+1029 Capotillo
+1037 Los Guandules
+1041 Capotillo
+1042 Palma Real
+1043 La Cienaga
+1047 Palma Real
+1047 Los Rios
+1047 La Zurza
+1051 Villa Juana
+1053 Los Rios
+1056 Ensanche Espaillat
+1057 Cristo Rey
+1059 Palma Real
+1061 Los Rios
+1061 Palma Real
+1062 Cristo Rey
+1065 27 de Febrero
+1065 San Carlos
+1068 Villa Consuelo
+1069 Ensanche Espaillat
+1070 San Carlos
+1072 Capotillo
+1075 Capotillo
+1078 Gualey
+1081 Palma Real
+1084 Los Guandules
+1085 La Zurza
+1085 Capotillo
+1086 Villa Consuelo
+1094 La Cienaga
+1094 Palma Real
+1097 Villas Agricolas
+1100 Palma Real
+1102 Villa Consuelo
+1103 Guaricano
+1104 Los Guandules
+1105 Guaricano
+1106 Guaricano
+1110 Los Guandules
+1110 27 de Febrero
+1111 Gualey
+1112 Palma Real
+1113 Capotillo
+1116 Villas Agricolas
+1118 Capotillo
+1118 Guaricano
+1120 Gualey
+1120 Los Guandules
+1128 Villa Juana
+1135 Ensanche Espaillat
+1138 Los Guandules
+1140 Villa Francisca
+1140 Guaricano
+1142 Villa Juana
+1144 Cristo Rey
+1148 Cristo Rey
+1151 San Carlos
+1152 Palma Real
+1158 Los Guandules
+1164 Capotillo
+1167 Ensanche Espaillat
+1168 Capotillo
+1173 Los Guandules
+1174 Guaricano
+1175 Villas Agricolas
+1175 Ensanche Espaillat
+1182 Capotillo
+1187 Capotillo
+1188 La Zurza
+1188 Villa Consuelo
+1189 San Carlos
+1191 Los Guandules
+1191 La Zurza
+1193 Capotillo
+1194 Capotillo
+1195 Ensanche Espaillat
+1197 Capotillo
+1200 Guaricano
+1202 San Carlos
+1203 San Carlos
+1207 Los Guandules
+1209 San Carlos
+1211 Ensanche Espaillat
+1212 Villa Juana
+1216 27 de Febrero
+1220 Guaricano
+1223 Capotillo
+1224 27 de Febrero
+1224 Capotillo
+1225 Los Guandules
+1227 Cristo Rey
+1231 Cristo Rey
+1232 Los Guandules
+1234 Villa Consuelo
+1237 Palma Real
+1237 Capotillo
+1239 Los Rios
+1240 Capotillo
+1241 27 de Febrero
+1242 Villa Consuelo
+1249 Guaricano
+1250 Capotillo
+1250 San Carlos
+1251 La Zurza
+1255 Gualey
+1259 Palma Real
+1260 Guaricano
+1265 27 de Febrero
+1269 27 de Febrero
+1269 Villa Francisca
+1269 Villa Juana
+1270 La Zurza
+1270 La Zurza
+1271 Los Guandules
+1275 La Zurza
+1275 Los Guandules
+1277 Los Guandules
+1284 Los Guandules
+1284 Capotillo
+1288 Villas Agricolas
+1289 La Zurza
+1291 La Zurza
+1293 Los Guandules
+1294 La Zurza
+1296 Villa Consuelo
+1296 Villa Consuelo
+1299 Capotillo
+1303 Gualey
+1303 Gualey
+1305 Capotillo
+1307 Palma Real
+1309 San Carlos
+1320 27 de Febrero
+1320 Los Guandules
+1324 Los Guandules
+1325 Villas Agricolas
+1327 Villa Francisca
+1327 La Zurza
+1328 Capotillo
+1329 Villa Juana
+1330 Los Guandules
+1330 Capotillo
+1333 La Zurza
+1333 Gualey
+1333 Villa Consuelo
+1335 La Zurza
+1337 Los Rios
+1341 San Carlos
+1343 La Zurza
+1344 27 de Febrero
+1344 San Carlos
+1345 Guaricano
+1345 San Carlos
+1348 Cristo Rey
+1348 Gualey
+1350 Gualey
+1351 Gualey
+1356 Los Guandules
+1356 Palma Real
+1358 Villa Consuelo
+1360 Villa Francisca
+1362 Gualey
+1368 Capotillo
+1368 La Cienaga
+1370 Cristo Rey
+1371 San Carlos
+1372 Ensanche Espaillat
+1373 Villa Consuelo
+1376 Guaricano
+1378 Cristo Rey
+1379 Guaricano
+1381 San Carlos
+1383 Guaricano
+1384 Guaricano
+1386 La Zurza
+1386 Guaricano
+1388 La Cienaga
+1389 Villa Juana
+1390 Ensanche Espaillat
+1390 Capotillo
+1391 San Carlos
+1393 Los Guandules
+1394 Villa Juana
+1395 Los Guandules
+1396 Cristo Rey
+1398 Palma Real
+1401 Cristo Rey
+1402 Palma Real
+1403 La Zurza
+1403 Capotillo
+1406 Cristo Rey
+1409 Capotillo
+1410 San Carlos
+1410 Villa Consuelo
+1413 Capotillo
+1414 Villa Juana
+1415 Los Guandules
+1416 San Carlos
+1417 San Carlos
+1418 Los Guandules
+1422 La Zurza
+1425 Capotillo
+1425 Palma Real
+1425 Los Guandules
+1427 La Cienaga
+1428 San Carlos
+1430 Villa Francisca
+1432 Los Guandules
+1434 Villa Juana
+1435 Cristo Rey
+1439 Villas Agricolas
+1439 Ensanche Espaillat
+1441 La Zurza
+1442 La Zurza
+1445 Los Guandules
+1446 Capotillo
+1450 Cristo Rey
+1454 Villa Francisca
+1454 Los Guandules
+1460 Capotillo
+1460 Gualey
+1462 Cristo Rey
+1462 Ensanche Espaillat
+1463 Capotillo
+1463 San Carlos
+1469 Capotillo
+1469 Cristo Rey
+1470 Villa Consuelo
+1470 Villa Consuelo
+1472 San Carlos
+1476 Cristo Rey
+1477 Villas Agricolas
+1483 Los Guandules
+1485 Villas Agricolas
+1488 Los Guandules
+1489 La Zurza
+1490 Guaricano
+1492 Gualey
+1497 Palma Real
+1498 Cristo Rey
+1501 Los Guandules
+1502 Los Rios
+1505 La Zurza
+1507 Guaricano
+1509 Palma Real
+1517 Los Guandules
+1517 Los Guandules
+1518 Los Guandules
+1520 Los Guandules
+1522 Cristo Rey
+1523 Los Guandules
+1523 Capotillo
+1525 San Carlos
+1526 Villa Consuelo
+1529 Villa Consuelo
+1530 La Cienaga
+1532 Capotillo
+1532 Cristo Rey
+1533 Los Guandules
+1534 Ensanche Espaillat
+1546 La Cienaga
+1548 Palma Real
+1548 Ensanche Espaillat
+1548 Los Guandules
+1552 Gualey
+1553 La Zurza
+1553 Los Guandules
+1555 Villas Agricolas
+1555 Palma Real
+1555 Villa Consuelo
+1558 Los Guandules
+1562 Los Guandules
+1570 Los Guandules
+1572 Los Guandules
+1573 Gualey
+1574 La Zurza
+1575 Palma Real
+1576 Gualey
+1578 Capotillo
+1583 San Carlos
+1583 Capotillo
+1586 Capotillo
+1587 Villa Consuelo
+1588 Los Rios
+1590 Villas Agricolas
+1591 Villa Francisca
+1592 Gualey
+1596 Los Guandules
+1601 Villa Consuelo
+1605 Palma Real
+1606 Capotillo
+1606 La Zurza
+1606 Cristo Rey
+1608 Cristo Rey
+1610 Capotillo
+1613 Capotillo
+1614 San Carlos
+1615 Gualey
+1615 Cristo Rey
+1621 Los Guandules
+1622 La Zurza
+1623 Guaricano
+1623 Capotillo
+1625 San Carlos
+1630 Guaricano
+1631 Capotillo
+1632 San Carlos
+1633 Cristo Rey
+1648 Gualey
+1649 Villa Consuelo
+1656 Los Guandules
+1656 Villa Juana
+1656 Guaricano
+1659 Guaricano
+1663 Capotillo
+1665 Los Guandules
+1666 Cristo Rey
+1668 Capotillo
+1669 Villa Francisca
+1674 Los Guandules
+1676 Villa Consuelo
+1676 Palma Real
+1677 Villa Consuelo
+1680 Villa Consuelo
+1685 Gualey
+1686 San Carlos
+1687 Gualey
+1689 Palma Real
+1692 Capotillo
+1694 Capotillo
+1695 Guaricano
+1696 Gualey
+1697 Villa Consuelo
+1702 Los Guandules
+1704 Ensanche Espaillat
+1713 Los Guandules
+1715 Cristo Rey
+1717 27 de Febrero
+1719 Los Rios
+1720 San Carlos
+1727 Gualey
+1728 Los Rios
+1734 Cristo Rey
+1735 Los Rios
+1736 Villas Agricolas
+1736 Gualey
+1737 Los Guandules
+1739 Capotillo
+1741 Palma Real
+1747 Los Rios
+1749 Villa Consuelo
+1749 Villa Consuelo
+1749 Villa Juana
+1750 Palma Real
+1750 Los Rios
+1750 Villa Francisca
+1755 Capotillo
+1757 Los Guandules
+1760 Villa Francisca
+1762 Capotillo
+1763 Palma Real
+1764 Los Guandules
+1765 Los Guandules
+1770 La Zurza
+1773 Villas Agricolas
+1776 Villa Consuelo
+1779 27 de Febrero
+1787 Villa Francisca
+1787 Cristo Rey
+1790 Capotillo
+1794 Capotillo
+1795 Los Guandules
+1795 Ensanche Espaillat
+1799 27 de Febrero
+1803 Capotillo
+1803 La Zurza
+1806 Villa Consuelo
+1808 Capotillo
+1810 La Zurza
+1814 Los Guandules
+1814 San Carlos
+1819 Los Guandules
+1821 Villas Agricolas
+1823 Palma Real
+1824 Capotillo
+1827 Villa Consuelo
+1829 Palma Real
+1831 Villa Consuelo
+1833 Villa Francisca
+1834 Villa Consuelo
+1834 Villas Agricolas
+1837 Palma Real
+1837 Los Rios
+1837 Los Guandules
+1838 Los Guandules
+1840 Villa Consuelo
+1841 Capotillo
+1841 Los Rios
+1841 Villa Francisca
+1843 Los Guandules
+1844 Villa Francisca
+1846 La Zurza
+1847 Villa Consuelo
+1847 27 de Febrero
+1849 Cristo Rey
+1849 Gualey
+1850 Palma Real
+1850 27 de Febrero
+1850 La Zurza
+1850 La Cienaga
+1851 Los Rios
+1854 Los Guandules
+1855 Los Guandules
+1857 Guaricano
+1857 Cristo Rey
+1858 Villas Agricolas
+1858 Los Guandules
+1858 Gualey
+1862 Guaricano
+1864 Guaricano
+1865 Cristo Rey
+1865 Los Rios
+1867 Villa Juana
+1867 Los Guandules
+1873 Capotillo
+1874 Gualey
+1875 Los Rios
+1876 Cristo Rey
+1877 San Carlos
+1878 Guaricano
+1878 Palma Real
+1882 Capotillo
+1885 Villa Consuelo
+1886 Palma Real
+1889 Guaricano
+1891 Capotillo
+1893 Los Guandules
+1895 Villa Juana
+1896 Los Guandules
+1900 Los Guandules
+1901 Los Guandules
+1901 Capotillo
+1902 Villas Agricolas
+1908 Los Guandules
+1913 Los Guandules
+1914 Capotillo
+1920 Los Guandules
+1921 Capotillo
+1921 La Cienaga
+1924 Palma Real
+1928 Villa Juana
+1930 Villa Consuelo
+1930 27 de Febrero
+1931 Guaricano
+1933 San Carlos
+1935 Cristo Rey
+1935 Los Guandules
+1940 Villa Juana
+1940 Villa Francisca
+1942 Capotillo
+1944 La Zurza
+1945 La Zurza
+1946 Capotillo
+1950 Villa Francisca
+1950 Villa Consuelo
+1955 Los Guandules
+1955 Palma Real
+1957 Villa Juana
+1959 Los Rios
+1961 Los Rios
+1963 Guaricano
+1967 La Cienaga
+1968 Capotillo
+1968 La Zurza
+1969 Cristo Rey
+1970 Los Guandules
+1970 Capotillo
+1970 Ensanche Espaillat
+1974 Los Guandules
+1978 Los Guandules
+1979 Capotillo
+1982 Capotillo
+1986 Los Rios
+1990 Los Guandules
+1991 Los Guandules
+1994 La Zurza
+1999 Capotillo
+2000 Ensanche Espaillat

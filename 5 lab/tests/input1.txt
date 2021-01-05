@@ -1,0 +1,30 @@
+# Este es el ejemplo incluido en la version original.  La primera linea tiene la variable K
+7
+
+# Estos son los eventos
+ 1 Villa Francisca
+ 4 Capotillo
+ 5 Capotillo
+ 5 Capotillo
+10 Cristo Rey
+10 Los Guandules
+10 La Zurza
+12 Gualey
+13 Villa Juana
+16 27 de Febrero
+16 Los Guandules
+17 San Carlos
+22 Palma Real
+25 Palma Real
+26 Villa Consuelo
+28 Los Rios
+33 Villas Agricolas
+38 La Cienaga
+38 Capotillo
+41 Ensanche Espaillat
+41 La Zurza
+42 Los Guandules
+42 San Carlos
+42 Villa Consuelo
+42 Los Guandules
+47 Cristo Rey

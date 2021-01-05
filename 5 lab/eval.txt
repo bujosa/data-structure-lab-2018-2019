@@ -1,0 +1,48 @@
+===========
+HW5: 13.15
+===========
+
+@ MaxNumberOfEventsInAnyKDayInterval: 2.95 / 3
+- Para este ejemplo, devuelves el rango del dia 0 al dia 2.  Segun el enunciado,
+dia 0 no existe.  Y si existieria, ese rango tiene 3 dias.
+2
+1 bbb
+1 aaa
+10 aaa
+12 aaa
+
+
+@ MostFrequentLocation: 3 / 3
+* Ese stack no es necesario, pues solo importa el dato en el stack, el cual
+se puede reemplazar por una variable max_so_far
+
+
+@ MostFrequentLocationInAnyKDayInterval: 7.20 / 8
+- Para muchos casos no devuelves resultados correctos.  En este ejemplo,
+devuelves 1 homicidio cuando el maximo es 5
+
+7
+2 aaa
+4 aaa
+5 aaa
+5 aaa
+8 aaa
+12 bbb
+
+- Otro ejemplo, el resultado correcto es 4 homicidios, pero tu solucion devuelve 3:
+5
+3 aaa
+5 aaa
+7 aaa
+9 ccc
+9 aaa
+9 aaa
+10 ccc
+10 ccc
+11 aaa
+11 bbb
+
+- Para este ejemplo, devuelves el rango del dia 0 al 7:
+7
+3 bbb
+6 bbb

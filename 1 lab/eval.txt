@@ -1,0 +1,39 @@
+===============
+Lab1a: 5.85 / 6
+===============
+
+* Trata de usar variables mas descriptivas que aclare como funciona tus algoritmos
+
+@ MaxNumberOfEventsWithinKDays: 2/2
+= OK
+
+
+@ Complejidad MaxNumberOfEventsWithinKDays: 0.5/0.5
+= OK
+
+
+@ MostFrequentLocation: 2.9/3
+- La variable mayorfrecuencia queda sucia despues de ejecutar el metodo 
+MostFrequentLocation, provocando que probablemente devuelvas resultado
+incorrecto en la proxima corrida del metodo
+
+= Okey i get up
+
+
+@ Complejidad MostFrequentLocation: 0.45/0.5
+- Asumes que string comparison tiene complejidad O(1)
+
+
+
+===============
+Lab1a: 8.00 / 8
+===============
+
+@ score RectangularDungeon: 4/4
+= OK
+
+
+@ score JaggedDungeon: 4/4
+= OK
+
+

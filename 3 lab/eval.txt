@@ -1,0 +1,29 @@
+===============
+Lab3: 9.05 / 8
+===============
+
+@ Add: 2.9 / 3
+- Ejecutas resize solo en el caso que el arreglo se llena!
+
+
+@ Find: 1.9 / 2
+- Get nunca inspecciona el dato grabado en el primer nodo.  Ademas, esta causando
+un NullReferenceException
+        var D3 = new MyDictionary<int>();
+        for (int k = 1; k <= 961; k += 32)
+            D3.Add(k, k);
+        D3.Find(961);
+
+
+@ ResizeAndReindex: 3 / 3
+= OK
+
+
+@ Experimento: 1.25 / 2 extra
+- Debes presentar tus resultados, no solo el codigo que implementaste
+- La secuencia de keys que elegiste no es adecuado para determinar la complejidad
+average case de Add.  Con otras secuencias, te hubieras dado cuenta que no es O(1)
+
+
+
+

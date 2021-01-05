@@ -1,0 +1,49 @@
+===============
+Lab2p: 7.65 / 8
+===============
+
+@ Push: 1.75 / 2.5
+- No debes estar reduciendo el arreglo en la operacion Push
+- El criterio para agrandar el arreglo (linea 114) no es correcto
+* INITIAL_CAPACITY no es lo mismo que GROWTH_FACTOR
+- Error off-by-one en la linea 183, provocando que sobreescribas un dato anterior
+
+
+@ Pop: 2.25 / 2.5
+- El criterio para reducir el arreglo no es correcto
+
+
+@ Peek: 0.9 / 1
+- Error off-by-one en la linea 192
+
+
+@ Resize: 1.75 / 2
+- El criterio para detener el loop de la linea 215 no es el correcto
+
+
+@ Extra: 1 / 1
+= OK
+
+
+================
+Lab2f: 0.75 / 10
+================
+
+@ Constructor: 0 / 1
+- No compila ni funciona
+- No entiendo el proposito de crear el arreglo 'arreglo'
+- head no esta inicializado
+- No actualizas tail
+- No incrementas Size
+
+
+@ RemoveSelected: 0.75 / 9
+- Incompleto!!!
+- No actualizas Size
+- Siempre devuelves null en vez de la lista de los borrados
+- No desenlazas los nodos de manera correcta
+
+
+
+
+

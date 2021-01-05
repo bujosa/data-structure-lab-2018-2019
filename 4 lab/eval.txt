@@ -1,0 +1,56 @@
+================
+Lab4: 14.40 / 14
+================
+
+
+@ Add: 2 / 2
+* La validacion de la linea 71 en SubTreeSizePlus no es necesaria porque ya se
+valido en el while
+
+
+@ Remove: 1 / 1
+= OK
+
+
+@ RotateRight / RotateLeft: 0.75 / 2
+- En RotateRight, SubTreeSizePlus tiene complejidad O(H)
+- En RotateLeft, no tomas en cuenta las lapidas en los nodos P y Q
+
+
+@ MaxNode / MinNode: 3.5 / 4
+* La validacion de la linea 239 no es necesaria porque ya lo validaste anteriormente
+- Devuelves resultado incorrecto para este ejemplo:
+        var t = new BinarySearchTree();
+        t.Add(20);
+        t.Add(10);
+        Console.WriteLine( t.Max() );
+
+- NullReferenceException en este ejemplo:
+        var t = new BinarySearchTree();
+        t.Add(20);
+        t.Add(10);
+        t.Remove(20);
+        Console.WriteLine( t.Min() );
+
+
+@ Concatenate: 5.15 / 6
+- this.Max() lanza una excepcion si el arbol 'this' esta vacio
+- other.Min() lanza una excepcion si el arbol 'other' esta vacio
+* La validacion de la linea 486 no es necesaria porque el unico nodo sin parent
+es root y eso ya lo validaste en el while
+- Te falta actualizar el parent de other.root
+- El root arbol 'other' se queda con el mismo root original, causando problemas
+como este:
+        var t1 = new BinarySearchTree();
+        t1.Add(10);
+        var t2 = new BinarySearchTree();
+        t2.Add(20);
+        t1.Concatenate(t2);
+        t2.Add(1);
+        t1.prettyPrintBST();
+
+
+@ Concatenate con lapidas: 2 / 2 extras
+= OK
+
+
